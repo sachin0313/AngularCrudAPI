@@ -19,7 +19,7 @@ namespace WepApi.Data
 
         public int CountryId { get; set; }
 
-        public Country Country { get; set; }
+        public  Country Country { get; set; }
 
         public virtual ICollection<Contact> Contacts { get; set; }
 

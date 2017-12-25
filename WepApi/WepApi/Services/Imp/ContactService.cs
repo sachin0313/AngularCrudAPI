@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -46,14 +47,15 @@ namespace WepApi.Services
         public IEnumerable<ContactModel> GetData()
         {
             //ApplicationDbContext db = new ApplicationDbContext();
-            var contactData = dbContext.Contacts.ToList().Select(x => new
+           // var data = dbContext.States.Include(x => x.Country).ToList();
+            var contactData = dbContext.Contacts.Include(x=>x.Country).Include(x=>x.State).ToList().Select(x => new
             {
                 FirstName=x.FirstName,
                 LastName=x.LastName,
                 Email = x.Email,
                 Phone=x.Phone,
-                State=x.StateId,
-                Country=x.CountryId,
+                State=x.State,
+                Country=x.Country,
                 ID=x.ID
             }).Select(x => new ContactModel()
             {
@@ -61,8 +63,8 @@ namespace WepApi.Services
                 LastName = x.LastName,
                 Email = x.Email,
                 Phone = x.Phone,
-                State = GetStateName(x.State),
-                Country = GetCountry(x.Country),
+                State = x.State.Name,//GetStateName(x.State),
+                Country = x.Country.Name,//GetCountry(x.Country),
                 ID = x.ID
 
             }).OrderBy(x => x.FirstName).ToList();

@@ -11137,11 +11137,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Angular\\WepApi\\WepApi\\WepApi.csproj",
+      "projectUniqueName": "D:\\Projects\\AngularCrudAPI\\WepApi\\WepApi\\WepApi.csproj",
       "projectName": "WepApi",
-      "projectPath": "D:\\Angular\\WepApi\\WepApi\\WepApi.csproj",
+      "projectPath": "D:\\Projects\\AngularCrudAPI\\WepApi\\WepApi\\WepApi.csproj",
       "packagesPath": "C:\\Users\\Sachin\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular\\WepApi\\WepApi\\obj\\",
+      "outputPath": "D:\\Projects\\AngularCrudAPI\\WepApi\\WepApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sachin\\AppData\\Roaming\\NuGet\\NuGet.Config",
