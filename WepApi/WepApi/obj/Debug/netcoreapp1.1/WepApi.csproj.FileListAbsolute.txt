@@ -1,0 +1,80 @@
+D:\MyProjects\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+D:\MyProjects\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+D:\MyProjects\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+D:\MyProjects\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+D:\MyProjects\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+D:\MyProjects\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+D:\sudhakar\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+D:\sudhakar\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+D:\sudhakar\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+D:\sudhakar\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+D:\sudhakar\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfoInputs.cache
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+D:\sudhakar\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+d:\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+d:\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+d:\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+d:\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+d:\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfoInputs.cache
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+d:\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+E:\angular project with.net\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+E:\angular project with.net\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+E:\angular project with.net\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+E:\angular project with.net\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\angular project with.net\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+E:\angular project with.net\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+E:\angular project with.net\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+E:\angular project with.net\WepApi\wepapi\bin\Debug\netcoreapp1.1\WepApi.dll
+E:\angular project with.net\WepApi\wepapi\bin\Debug\netcoreapp1.1\WepApi.pdb
+E:\angular project with.net\WepApi\wepapi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+C:\Users\LM-DEV6\Downloads\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+D:\NewTask\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+D:\NewTask\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+D:\NewTask\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+D:\NewTask\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+D:\NewTask\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
+D:\NewTask\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfoInputs.cache
+D:\Angular\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.deps.json
+D:\Angular\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.json
+D:\Angular\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.runtimeconfig.dev.json
+D:\Angular\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.dll
+D:\Angular\WepApi\WepApi\bin\Debug\netcoreapp1.1\WepApi.pdb
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csprojResolveAssemblyReference.cache
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.csproj.CoreCompileInputs.cache
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfoInputs.cache
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.AssemblyInfo.cs
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.dll
+D:\Angular\WepApi\WepApi\obj\Debug\netcoreapp1.1\WepApi.pdb
